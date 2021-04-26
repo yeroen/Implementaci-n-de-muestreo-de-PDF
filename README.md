@@ -1,1 +1,1 @@
-# Implementaci-n-de-muestreo-de-PDF
+# Implementacion de muestreo de PDF
